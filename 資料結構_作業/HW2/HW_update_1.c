@@ -112,6 +112,5 @@ int main(){
     Row_Sorting(1);
     Column_QuickSort(0,req-1);
     Print();
-    printf("TOP GOOD")
     return 0;
 }
