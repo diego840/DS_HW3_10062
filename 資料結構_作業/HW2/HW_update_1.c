@@ -97,7 +97,7 @@ void Column_QuickSort(int left,int right){
         Column_QuickSort(left,i-1);
         Column_QuickSort(j+1,right);
     }
-}
+}13
 void Print(){
     for (int i = 0; i < req; i++){
         for (int j = 0; i_shape[i][j] != -1; j++){
