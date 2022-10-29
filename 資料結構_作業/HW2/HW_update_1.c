@@ -112,5 +112,6 @@ int main(){
     Row_Sorting(1);
     Column_QuickSort(0,req-1);
     Print();
+    
     return 0;
 }
