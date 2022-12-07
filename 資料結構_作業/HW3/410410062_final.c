@@ -187,6 +187,5 @@ int main(){
     DFS(0);
     UAV_tours();
     Print_function();
-    //printf("2022 12 07");
     return 0;
 }
