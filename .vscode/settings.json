@@ -1,0 +1,17 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "20211024G.C": "cpp",
+        "xlocale": "c",
+        "xstring": "c",
+        "tuple": "c",
+        "utility": "c",
+        "system_error": "c",
+        "stdlib.h": "c",
+        "W12.C": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "string.h": "c"
+    }
+}

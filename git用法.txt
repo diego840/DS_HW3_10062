@@ -1,0 +1,11 @@
+git push "you repositories(https)"
+推送檔案到github帳號上
+
+git pull
+拉一份線上版本回來更新
+
+git commit -m "commit訊息打在引號裡面"
+將暫存區的staging area存入本地的repostiory!
+
+git status
+查看站存區的staging area
